@@ -9,7 +9,7 @@
 // Objetivo: No nível novato você deve criar as cartas representando as cidades utilizando scanf para entrada de dados e printf para exibir as informações.
 // Área para definição das variáveis para armazenar as propriedades das cidades
 
-                                        //CARTA 1
+                                        // CARTA 1 
         int turisticos;
         int populacao;
         float areaKM2;
@@ -49,7 +49,7 @@
      
 
                 
-                                               // CARTA 2
+                                               // CARTA 2 
 
         int turisticos2;
         int populacao2;
