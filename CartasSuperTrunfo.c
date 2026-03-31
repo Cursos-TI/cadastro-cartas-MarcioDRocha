@@ -20,15 +20,15 @@
   // Área para entrada de dados
 
      printf("Digite o Código da carta 1:");
-     scanf("%s", &carta1);
+     scanf("%s", carta1);
      printf("O código da carta é: %s\n", carta1);
 
      printf("Digite o nome do estado:");
-     scanf("%s", &estado);
+     scanf("%s", estado);
      printf("O nome do estado é: %s\n", estado);
      
      printf("Digite o nome da cidade:");
-     scanf("%s", &cidade);
+     scanf("%s", cidade);
      printf("O nome da cidade é: %s\n", cidade);
      
      printf("Digite a área do estado:");
@@ -59,15 +59,15 @@
 
      
      printf("Digite o Código da carta 2:");
-     scanf("%s", &carta2);
+     scanf("%s", carta2);
      printf("O código da carta é: %s\n", carta2);
 
      printf("Digite o nome do estado:");
-     scanf("%s", &estado2);
+     scanf("%s", estado2);
      printf("O nome do estado é: %s\n", estado2);
 
      printf("Digite o nome da cidade:");
-     scanf("%s", &cidade2);
+     scanf("%s", cidade2);
      printf("O nome da cidade é: %s\n", cidade2);
 
      printf("Digite a área do estado:");
