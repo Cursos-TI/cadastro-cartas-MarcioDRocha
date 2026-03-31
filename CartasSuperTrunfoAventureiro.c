@@ -6,7 +6,7 @@
         int turisticos; 
         float populacao;
         float areaKM2;
-        float densidade_poulacional;
+        float densidade_populacional;
         float PIB;
         float PIB_percapita;
         char carta1[50], codigo[50], cidade[50], estado[50];
@@ -38,10 +38,10 @@
 
      // Cálculo adcional
 
-     densidade_poulacional = populacao / areaKM2;
+     densidade_populacional = populacao / areaKM2;
      PIB_percapita = PIB / populacao;
 
-     printf("A densidade populacional é: %.2f\n", densidade_poulacional);
+     printf("A densidade populacional é: %.2f\n", densidade_populacional);
      printf("O PIB per capita é: %.2f\n", PIB_percapita);
      
      printf("Digite Pontos turísticos:");
